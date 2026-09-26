@@ -62,6 +62,17 @@
 
 ---
 
+### 📈 GitHub Activity
+
+<p>
+  <a href="https://github.com/boonblade"><img height="165" src="https://github-readme-stats.vercel.app/api?username=boonblade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></a>
+  <a href="https://github.com/boonblade"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boonblade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></a>
+</p>
+<p>
+  <a href="https://github.com/boonblade"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boonblade&theme=tokyonight&hide_border=true" alt="Contribution streak" /></a>
+</p>
+
+---
 ### 📫 Connect with Me
 
 - **GitHub**: [@boonblade](https://github.com/boonblade)
