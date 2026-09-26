@@ -73,7 +73,7 @@
   <a href="https://github.com/boonblade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boonblade&theme=tokyonight" alt="Most committed language" height="180" /></a>
 </p>
 <p>
-  <a href="https://github.com/boonblade"><img src="https://streak-stats.demolab.com/?user=boonblade&theme=tokyonight&hide_border=true" alt="Contribution streak" /></a>
+  <a href="https://github.com/boonblade"><img src="https://streak-stats.demolab.com/?user=boonblade&theme=tokyonight&hide_border=true&disable_animations=true" alt="Contribution streak" /></a>
 </p>
 
 ---
