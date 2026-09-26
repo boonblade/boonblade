@@ -65,14 +65,19 @@
 ### 📈 GitHub Activity
 
 <p>
-  <a href="https://github.com/boonblade"><img height="165" src="https://github-readme-stats.vercel.app/api?username=boonblade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></a>
-  <a href="https://github.com/boonblade"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boonblade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></a>
+  <a href="https://github.com/boonblade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boonblade&theme=tokyonight" alt="GitHub stats" height="180" /></a>
+  <a href="https://github.com/boonblade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boonblade&theme=tokyonight&utcOffset=9" alt="Commits by hour (KST)" height="180" /></a>
 </p>
 <p>
-  <a href="https://github.com/boonblade"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boonblade&theme=tokyonight&hide_border=true" alt="Contribution streak" /></a>
+  <a href="https://github.com/boonblade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boonblade&theme=tokyonight" alt="Repos per language" height="180" /></a>
+  <a href="https://github.com/boonblade"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boonblade&theme=tokyonight" alt="Most committed language" height="180" /></a>
+</p>
+<p>
+  <a href="https://github.com/boonblade"><img src="https://streak-stats.demolab.com/?user=boonblade&theme=tokyonight&hide_border=true" alt="Contribution streak" /></a>
 </p>
 
 ---
+
 ### 📫 Connect with Me
 
 - **GitHub**: [@boonblade](https://github.com/boonblade)
